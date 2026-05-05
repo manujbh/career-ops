@@ -6,6 +6,12 @@ args: mode
 argument-hint: "[scan | deep | pdf | oferta | ofertas | apply | batch | tracker | pipeline | contacto | training | project | interview-prep | update]"
 ---
 
+## Project Root
+
+This skill's data lives at `/Users/manujbh/My_Code/career-ops`. Whenever this skill or any mode file references a relative path (e.g. `modes/_shared.md`, `cv.md`, `config/profile.yml`, `data/pipeline.md`), resolve it against this root. Always use the full absolute path when calling Read or any file tool.
+
+---
+
 # career-ops -- Router
 
 ## Mode Routing
