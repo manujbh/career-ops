@@ -2,7 +2,7 @@ MANUJ BHANDARI
 Arlington, VA | 571-230-6980 | manujbh@gmail.com | LinkedIn: www.linkedin.com/in/manujbh-security
 
 SUMMARY
-Strategic security leader with 20+ years building and scaling security programs for high-growth SaaS, cloud-native, and regulated enterprise environments. Proven track record owning end-to-end security program strategy spanning product security, cloud security (AWS, GCP, Azure), and compliance certifications (SOC 2, ISO 27001, FedRAMP, HIPAA, GDPR). 
+Strategic security leader with 20+ years building and scaling security programs for high-growth SaaS, cloud-native, and regulated enterprise environments. Proven track record owning end-to-end security program strategy spanning product security, cloud security (AWS, GCP, Azure), and compliance certifications (SOC 2, ISO 27001, FedRAMP, HIPAA, GDPR). Regulatory programs anchored in NIST 800-53 and ISO 27001 — the same control frameworks underlying FFIEC CAT and FDIC information security guidance — spanning federal, industrial, and cloud-native regulated environments.
 
 WORK EXPERIENCE
 Director, Information Security | Dematic | Atlanta, GA                                                Aug 2023 – Jan 2026 (layoffs)
@@ -12,6 +12,7 @@ Served as the customer-facing security authority for enterprise RFP and contract
 Architected and executed a compliance engineering program aligned to ISO 27001, SOC 2, NIST 800-53, and NIS2, translating regulatory obligations into a library of engineering-ready user stories and reusable control templates embedded directly into Agile product delivery, cutting audit preparation timelines by 50% and eliminating late-stage compliance surprises across five cloud and on-premises platforms.
 Drove evidence automation and continuous compliance mechanisms by integrating SAST, SCA, IaC scanning, and policy-as-code guardrails into CI/CD pipelines across five cloud and on-premises platforms, reducing critical cloud misconfigurations by 99% and high-severity findings by 80%, with audit artifacts produced automatically.
 Led cross-functional security compliance roadmap spanning Engineering, Product, Legal, and Sales, embedding compliance-by-design patterns into product development paved paths, enabling $50M+ in enterprise revenue.
+Designed and ran tabletop exercises for major cyber incident scenarios; integrated BC/DR milestones into the security program roadmap and tested recovery procedures across SaaS and on-premises platforms.
 
 Security Manager | Amazon Web Services (AWS) | Arlington, VA                             Aug 2021 – Jul 2023 (layoffs)
 Built and scaled security program metrics and risk reporting dashboards adopted by 90% of cross-functional engineering teams, enabling risk-based remediation prioritization across a cloud-native payment platform processing 100M daily transactions.
@@ -24,7 +25,7 @@ Director, Information Security | Maximus Inc | Reston, VA		                     
 Directed FedRAMP Moderate authorization and continuous monitoring for cloud-native SaaS platforms generating $250M+ in annual revenue, leading a team of 7 security professionals and operationalizing compliance program metrics aligned to NIST 800-53, HIPAA, and CMMC frameworks.
 Owned end-to-end security design reviews, control adequacy evaluations, and incident response lifecycle management for a $790M federal program, reducing assessment cycle time by 40% through automated evidence collection and streamlined risk-based compliance workflows.
 Built and scaled a security program from the ground up for a 20+ person team spanning governance, risk management, SOC oversight, vulnerability management, and continuous monitoring, delivering KPIs, stakeholder dashboards, and compliance reporting that directly supported program revenue goals and RFP qualifications.
-Directed end-to-end FedRAMP Moderate authorization for Maximus Cloud SaaS, owning full ATO lifecycle from FIPS 199 categorization, System Security Plan (SSP) development, and 3PAO assessment coordination with Coalfire, through JAB and Agency authorization for systems generating $250M+ in annual revenue.
+Directed end-to-end FedRAMP Moderate authorization for Maximus Cloud SaaS, owning full ATO lifecycle from FIPS 199 categorization, System Security Plan (SSP) development, and 3PAO assessment coordination with Coalfire through JAB and Agency authorization for platforms generating $250M+ in annual revenue — a regulator-coordination workflow equivalent to FDIC de novo examination preparation.
 Owned Authority to Operate (ATO) lifecycle management for a $790M federal program (Census Questionnaire Assistance), across NIST 800-53 control assessment, POA&M management, and continuous monitoring for a mission-critical system spanning two data centers and eleven contact centers.
 
 

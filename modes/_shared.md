@@ -120,8 +120,9 @@ After detecting archetype, read `modes/_profile.md` for the user's specific fram
 | Tool | Use |
 |------|-----|
 | WebSearch | Comp research, trends, company culture, LinkedIn contacts, fallback for JDs |
-| WebFetch | Fallback for extracting JDs from static pages |
-| Playwright | Verify offers (browser_navigate + browser_snapshot). **NEVER 2+ agents with Playwright in parallel.** |
+| Exa web_fetch (`mcp__plugin_everything-claude-code_exa__web_fetch_exa`) | **Preferred** for extracting JDs. Works with SPAs and static pages without Playwright installation. |
+| WebFetch | Fallback if Exa fails (ZipRecruiter, WeLoveProduct, company career pages) |
+| Playwright | Verify offer liveness only (browser_navigate + browser_snapshot). **NEVER 2+ agents with Playwright in parallel.** |
 | Read | cv.md, _profile.md, article-digest.md, cv-template.html |
 | Write | Temporary HTML for PDF, applications.md, reports .md |
 | Edit | Update tracker |
