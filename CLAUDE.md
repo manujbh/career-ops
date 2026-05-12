@@ -48,6 +48,7 @@ If `modes/_profile.md` is missing, copy from `modes/_profile.template.md` silent
 #### Memory & Context
 This project references documentation from my Obsidian vault. Update `config/profile.yml` by summarizing "my_knowledge1.md":
 - My Job History and My Profile: /Users/manujbh/Library/Mobile\ Documents/iCloud\~md\~obsidian/Documents/MEMORY/JOBS/my_knowledge1.md
+- Implementation examples in my work history: /Users/manujbh/Library/Mobile\ Documents/iCloud\~md\~obsidian/Documents/MEMORY/RESEARCH+WORK
 - My Engineering work and Decisions: /Users/manujbh/Library/Mobile\ Documents/iCloud\~md\~obsidian/Documents/MEMORY/JOBS/Interview\ Prep
 
 Store any insights the user shares in `config/profile.yml` (under narrative), `modes/_profile.md`, or in `article-digest.md` if they share proof points. Do not put user-specific archetypes or framing into `modes/_shared.md`.
