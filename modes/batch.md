@@ -89,7 +89,7 @@ Each worker receives `batch-prompt.md` as a system prompt. It is self-contained.
 
 The worker produces:
 1. `.md` report in `reports/`
-2. PDF in `output/`
+2. PDF in `pdf_output_dir` from `config/profile.yml` (default: `output/`)
 3. Tracker line in `batch/tracker-additions/{id}.tsv`
 4. Result JSON via stdout
 
