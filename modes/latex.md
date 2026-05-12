@@ -15,8 +15,8 @@ Export a tailored, ATS-optimized CV as a `.tex` file and compile it to PDF via `
 9. Reorder experience bullets by JD relevance
 10. Inject keywords naturally into existing achievements
 11. Generate the `.tex` file using `templates/cv-template.tex`
-12. Read `pdf_output_dir` from `config/profile.yml` (default: `output/`). Write to `{pdf_output_dir}/cv-{candidate}-{company}-{YYYY-MM-DD}.tex`
-13. Run: `node generate-latex.mjs "{pdf_output_dir}/cv-{candidate}-{company}-{YYYY-MM-DD}.tex" "{pdf_output_dir}/cv-{candidate}-{company}-{YYYY-MM-DD}.pdf"`
+12. Read `pdf_output_dir` from `config/profile.yml` (default: `output/`). Write to `{pdf_output_dir}/{candidate}_{company}_{YYYY-MM-DD}.tex`
+13. Run: `node generate-latex.mjs "{pdf_output_dir}/{candidate}_{company}_{YYYY-MM-DD}.tex" "{pdf_output_dir}/{candidate}_{company}_{YYYY-MM-DD}.pdf"`
 14. Report: .tex path, .pdf path, file sizes, section count, keyword coverage %
 
 **Requires:** `tectonic` (preferred — `brew install tectonic`, auto-downloads packages) or `pdflatex` (MiKTeX / TeX Live) on PATH.

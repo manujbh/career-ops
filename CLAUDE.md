@@ -112,7 +112,7 @@ This system is designed to be customized by YOU (AI Agent). When the user asks y
 
 
 ## Stack and Conventions
-- Node.js (mjs modules), YAML (config), HTML/CSS (template), Markdown (data), Canva MCP (optional visual CV)
+- Node.js (mjs modules), YAML (config), HTML/CSS (template), Markdown (data)
 - Scripts in `.mjs`, configuration in YAML
 - Output in `output/` (gitignored), Reports in `reports/`
 - JDs in `jds/` (referenced as `local:jds/{file}` in pipeline.md)
